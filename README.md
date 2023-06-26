@@ -1,7 +1,10 @@
 # Nitro Discord Checker
 ## Made By Trephy
 
-Simple .txt file based nitro link checker
+Simple .txt file based nitro gift checker
+
+3.76s/100 lines
+34.36s/1000 lines
 
 ## Getting Started 
 
