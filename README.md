@@ -3,7 +3,7 @@
 
 Simple .txt file based nitro gift checker
 
-3.76s/100 lines
+3.76s/100 lines <br>
 34.36s/1000 lines
 
 ## Getting Started 
